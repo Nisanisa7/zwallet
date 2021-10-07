@@ -97,8 +97,8 @@ npm start
 ```
 
 ### Related Project
-* [`Frontend-Zwallet`](https://github.com/dwinovic/zwallet)
-* [`Backend-Zwallet`](https://github.com/dwinovic/Backend-mWallet)
+* [`Frontend-Zwallet`](https://github.com/Nisanisa7/zwallet)
+* [`Backend-Zwallet`](https://github.com/Nisanisa7/Backend-mWallet)
 
 ## Screenshots
 
