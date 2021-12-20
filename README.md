@@ -115,7 +115,6 @@ npm start
     <tr>
     <td>Register Page</td>
     </tr>
-    
     <tr>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
     </tr>
