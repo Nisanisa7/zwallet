@@ -120,6 +120,22 @@ npm start
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png"></td>
     </tr>
+    <tr>
+      <td>Transfer - Search Receiver Page</td>
+      <td>Transfer Page</td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-05_xo6ely.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-06_smtqqf.png"></td>
+    </tr>
+    <tr>
+      <td>Detail Transfer Page</td>
+      <td>Enter Pin to Transfer</td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-07_vp5cer.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-08_kjsjia.png"></td>
+    </tr>
    
     
   </table>
