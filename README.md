@@ -102,7 +102,7 @@ npm start
 
 ## Screenshots
 
-<div align="center">
+<p align="center">
   <table>
     <tr>
       <td>Landing Page</td>
