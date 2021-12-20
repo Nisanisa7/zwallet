@@ -113,22 +113,29 @@ npm start
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-02_ulfakj.png"></td>
     </tr>
     
+    <tr>
+      <td>Register Page</td>
+      <td>Home Page</td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png"></td>
+    </tr>
+    
+    <tr>
+      <td>Transfer - Search Receiver Page</td>
+      <td>Transfer Page</td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-05_xo6ely.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-06_smtqqf.png"></td>
+    </tr>
+    
   </table>
-      
-</div>
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png">
-</div>
-<div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-05_xo6ely.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-06_smtqqf.png">
-</div>
-<div align="center">
+
     <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-07_vp5cer.png">   
     <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-08_kjsjia.png">
-</div>
-<div align="center">
+
     <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-09_l1helx.png">   
     <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-10_nnfygx.png">
 </div>
