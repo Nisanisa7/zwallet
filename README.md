@@ -131,13 +131,23 @@ npm start
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-06_smtqqf.png"></td>
     </tr>
     
+     <tr>
+      <td>Detail Transfer Page</td>
+      <td>Enter Pin to Transfer</td>
+    </tr>
+    <tr>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-07_vp5cer.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-08_kjsjia.png"></td>
+    </tr>
+    <tr>
+      <td>Success Transfer Page</td>
+      <td>User Profile Page</td>
+    </tr>
+    <tr>
+      <td><img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-09_l1helx.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-10_nnfygx.png"></td>
+    </tr>
   </table>
-
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-07_vp5cer.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-08_kjsjia.png">
-
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-09_l1helx.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723285/Zwallet/Zwallet-10_nnfygx.png">
 </div>
 
 ## Our Team
