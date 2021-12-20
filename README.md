@@ -112,18 +112,15 @@ npm start
       <td><img width="100%" src="https://github.com/19damah23/zwallet/blob/main/screenshots/1631775729085.png"></td>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-02_ulfakj.png"></td>
     </tr>
-    
-     <tr>
-      <td>Register Page</td>
-      <td>Home Page</td>
+    <tr>
+    <td>Register Page</td>
     </tr>
+    
     <tr>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
-      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png"></td>
     </tr>
-    
-    
    
+    
   </table>
 </div>
 
