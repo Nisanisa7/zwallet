@@ -114,9 +114,11 @@ npm start
     </tr>
     <tr>
     <td>Register Page</td>
+    <td>Home Page</td>
     </tr>
     <tr>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
+      <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png"></td>
     </tr>
    
     
