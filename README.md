@@ -113,7 +113,7 @@ npm start
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-02_ulfakj.png"></td>
     </tr>
     
-    <tr>
+     <tr>
       <td>Register Page</td>
       <td>Home Page</td>
     </tr>
@@ -121,6 +121,7 @@ npm start
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723284/Zwallet/Zwallet-03_ecadci.png"></td>
       <td><img width="100%" src="https://res.cloudinary.com/dnv-images/image/upload/v1631723283/Zwallet/Zwallet-04_dcgepp.png"></td>
     </tr>
+    
     
     <tr>
       <td>Transfer - Search Receiver Page</td>
